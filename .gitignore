@@ -1,0 +1,10 @@
+node_modules/
+learning-library/
+.learning/
+.env
+.env.*
+*.log
+coverage/
+test-results/
+.DS_Store
+Thumbs.db

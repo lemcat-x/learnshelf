@@ -1,0 +1,6 @@
+interface:
+  display_name: "LearnShelf · 知页"
+  short_description: "按课程目录生成分层讲解、图示和互动练习，在独立本地书架网页阅读与复习"
+  default_prompt: "使用 $course-tutor 把我提供的课程目录变成本地学习书架，逐节生成讲解、适合的图示与互动练习，并打开网页。"
+policy:
+  allow_implicit_invocation: true
